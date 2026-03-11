@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**yagocorreax/yagocorreax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>_ sys_info
+```
+class DataEngineer:
+    def __init__(self):
+        self.id = "Yago Ferreira"
+        self.role = "Data Engineer | Python | SQL | Databricks | ETL/ELT | AI Agents"
+        self.location = "Rio de Janeiro, BR"
+        self.focus = ["Scalability", "Data Engineering", "AI Agents", "Automation"]
+    
+    def current_status(self):
+        return {
+            "working_at": "In search of my opportunity",
+            "building": "Scalable Data Pipelines and End-to-End Data Projects",
+            "learning": "How to improve Data solutions?"
+        }
+```
