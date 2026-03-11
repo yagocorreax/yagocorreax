@@ -1,5 +1,5 @@
 ## >_ sys_info
-```
+```python
 class DataEngineer:
     def __init__(self):
         self.id = "Yago Ferreira"
