@@ -14,3 +14,8 @@ class DataEngineer:
             "learning": "How to improve Data solutions?"
         }
 ```
+
+>_ connect
+LinkedIn: www.linkedin.com/in/yago-ferreirx
+
+Email: yagocmferreira9@gmail.com
