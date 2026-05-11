@@ -9,7 +9,7 @@ class DataEngineer:
     
     def current_status(self):
         return {
-            "working_at": "In search of my opportunity",
+            "working_at": "company @Puig",
             "building": "Scalable Data Pipelines and End-to-End Data Projects",
             "learning": "How to improve Data solutions?"
         }
